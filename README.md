@@ -21,7 +21,7 @@ Revenue_vs_Budget.ipynb (Revenue vs Budget) (Vasu)<br>
 **Presentation:**<br>
 project_1.pdf<br>
 <br>
-**Overall Analysis:**<br>
+**Overall Analysis:**<br> (Julia)
 
 _Ratings vs. Revenue_
 
