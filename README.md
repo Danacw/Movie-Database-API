@@ -7,7 +7,7 @@ PNG Images of Analysis<br>
 CSV files of collected API data<br>
 CSV files of merged dataframes<br>
 <br>
-**Data Exploration:**
+**Data Exploration:**<br>
 Data_Exploration_API.ipynb (Julia)<br>
 <br>
 **Data Cleanup:**<br>
