@@ -8,7 +8,7 @@ CSV files of collected API data<br>
 CSV files of merged dataframes<br>
 <br>
 **Data Exploration:**
-Data_Exploration_API.ipynb (Julia)
+Data_Exploration_API.ipynb (Julia)<br>
 <br>
 **Data Cleanup:**<br>
 part2.ipynb (Shante)<br>
