@@ -1,5 +1,4 @@
-# project1
-## Group Project: The Movie Database Analysis
+## Group Project 01: The Movie Database API Analysis
 
 **Images Folder:** 
 - PNG Images of Analysis
