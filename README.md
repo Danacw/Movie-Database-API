@@ -7,8 +7,8 @@ PNG Images of Analysis<br>
 CSV files of collected API data<br>
 CSV files of merged dataframes<br>
 <br>
-**Data Exploration:**
-Data_Exploration_API.ipynb (Julia)
+**Data Exploration:**<br>
+Data_Exploration_API.ipynb (Julia)<br>
 <br>
 **Data Cleanup:**<br>
 part2.ipynb (Shante)<br>
@@ -21,7 +21,7 @@ Revenue_vs_Budget.ipynb (Revenue vs Budget) (Vasu)<br>
 **Presentation:**<br>
 project_1.pdf<br>
 <br>
-**Overall Analysis:**<br>
+**Overall Analysis:**<br> (Julia)
 
 _Ratings vs. Revenue_
 
