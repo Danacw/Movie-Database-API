@@ -1,5 +1,8 @@
 ## Group Project 01: The Movie Database API Analysis
 
+**HTML_Pages:**<br>
+HTML and CSS files to display a more thorough analysis of genre distribution through a user-friendly website. You can view the site here: https://danacw.github.io/Movie-Database-API/HTML_Pages/index.html
+
 **Images Folder:**<br>
 PNG Images of Analysis<br>
 <br>
